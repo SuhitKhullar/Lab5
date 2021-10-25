@@ -31,9 +31,9 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        setContentView(R.layout.activity_main);
+        //setContentView(R.layout.activity_main);
 
-        Intent intent = getIntent();
+        //Intent intent = getIntent();
 
 
 
